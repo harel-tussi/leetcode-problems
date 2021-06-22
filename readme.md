@@ -8,3 +8,10 @@ Easy
 6. https://leetcode.com/problems/reverse-string/
 7. https://leetcode.com/problems/length-of-last-word/
 8. https://leetcode.com/problems/maximum-depth-of-binary-tree/
+9. https://leetcode.com/problems/delete-node-in-a-linked-list/
+10. https://leetcode.com/problems/reverse-linked-list/
+11. https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/
+12. https://leetcode.com/problems/move-zeroes/
+13. https://leetcode.com/problems/valid-anagram/
+14. https://leetcode.com/problems/binary-tree-inorder-traversal/
+15. https://leetcode.com/problems/reverse-integer/

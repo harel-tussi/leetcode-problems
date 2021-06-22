@@ -8,9 +8,17 @@
  */
 /**
  * @param {TreeNode} root
- * @return {number}
+ * @return {number[]}
  */
-var maxDepth = function (root) {
-  if (root === null) return 0;
-  return 1 + Math.max(maxDepth(root.left), maxDepth(root.right));
+var inorderTraversal = function (root) {
+  const arr = [];
+
+  const traverse = (root) => {
+    if (root === null) return null;
+    if (root.left) traverse(root.left);
+  };
+
+  traverse(root);
+
+  return arr;
 };
