@@ -15,3 +15,15 @@ Easy
 13. https://leetcode.com/problems/valid-anagram/
 14. https://leetcode.com/problems/binary-tree-inorder-traversal/
 15. https://leetcode.com/problems/reverse-integer/
+16. https://leetcode.com/problems/longest-common-prefix/
+17. https://leetcode.com/problems/valid-parentheses/
+18. https://leetcode.com/problems/contains-duplicate/
+19. https://leetcode.com/problems/plus-one/
+20. https://leetcode.com/problems/count-primes/submissions/
+21. https://leetcode.com/problems/climbing-stairs/
+22. https://leetcode.com/problems/symmetric-tree/
+23. https://leetcode.com/problems/contains-duplicate/
+24. https://leetcode.com/problems/missing-number/
+25. https://leetcode.com/problems/fibonacci-number/
+26. https://leetcode.com/problems/valid-palindrome/
+27. https://leetcode.com/problems/power-of-three/
